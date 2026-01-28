@@ -383,7 +383,7 @@ const LandingPage: React.FC<{ onLogin: () => void }> = ({ onLogin }) => {
           </div>
         </div>
         <div className="max-w-7xl mx-auto px-6 pt-12 mt-12 border-t border-slate-50 text-center text-slate-400 text-xs">
-          <p>&copy; 2025 Jobify AI. All rights reserved.</p>
+          <p>&copy; 2026|Shashank K M Jobify AI. All rights reserved.</p>
         </div>
       </footer>
     </div>
